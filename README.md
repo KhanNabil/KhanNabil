@@ -19,3 +19,6 @@ Aspiring Data Scientist from India, currently building my skills in data analyti
 
 ## Goal
 Become a skilled Data Scientist and build impactful projects.
+
+## Projects
+- [Inventory Management System (SQL)](https://github.com/KhanNabil/Inventory-Management-System)
