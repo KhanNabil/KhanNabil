@@ -22,4 +22,4 @@ Become a skilled Data Scientist and build impactful projects.
 
 ## Projects
 - [Inventory Management System (SQL)](https://github.com/KhanNabil/Inventory-Management-System)
-- [E-Commerce SQL Analysis System](https://github.com/KhanNabil/E-Commerce-SQL-Analysis-Project-)
+- [E_Commerce-SQL-Analysis-Project-](https://github.com/KhanNabil/E_Commerce-SQL-Analysis-Project-)
