@@ -14,9 +14,6 @@ Aspiring Data Scientist from India, currently building my skills in data analyti
 - Strengthening SQL & analytics skills
 - Preparing for a Data Science career
 
-## Projects
-- Inventory Management System (SQL)
-
 ## Goal
 Become a skilled Data Scientist and build impactful projects.
 
